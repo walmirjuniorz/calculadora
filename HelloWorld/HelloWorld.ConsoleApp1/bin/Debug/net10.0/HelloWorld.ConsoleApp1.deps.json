@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HelloWorld.ConsoleApp1/1.0.0": {
+        "runtime": {
+          "HelloWorld.ConsoleApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld.ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
