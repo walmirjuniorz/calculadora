@@ -148,11 +148,19 @@ while (true == true)
     {
         historicoOperacoes[totalOperacoes] = operacaoTexto;
         totalOperacoes++;
-
-
-        Console.WriteLine("O resultado é: " + resultado);
-
-        Console.ReadLine();
     }
+    else
+    {
+        historicoOperacoes = new string[100];
+        totalOperacoes = 0;
+
+        historicoOperacoes[totalOperacoes] = operacaoTexto;
+        totalOperacoes++;
+    }
+
+    Console.WriteLine("O resultado é: " + resultado);
+
+    Console.ReadLine();
+
 }
 
