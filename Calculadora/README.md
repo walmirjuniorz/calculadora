@@ -1,8 +1,10 @@
-
 # Calculadora
+
+![uma calculadora que roda em terminal](docs/calculadora.gif)
+
 ## Projeto
 
-Desenvolvido durante o curso Back-End da [Academia do Programador](https://www,academiadoprogramador,net) 2026
+Desenvolvido durante o curso Back-End da [Academia do Programador](https://www.academiadoprogramador.net) 2026
 
 ## Introducao
 
@@ -31,5 +33,5 @@ uma calculadora de console simples mas poderosa que permite realizar as quatro o
 
 ## Requisitos
 
-- .NET 10.0 SDK
+- .NET 10.0
 
